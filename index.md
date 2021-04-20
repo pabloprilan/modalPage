@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    
     <header class="hero">
+        <a href="https://github.com/pabloprilan" class="github">Take Me to your GitHub</a>
         <div class="banner">
             <h1>modal project</h1>
             <button class= "btn modal-btn"> open modal</button>

@@ -87,6 +87,14 @@ img {
   display: block;
 }
 
+.github{
+  color: white;
+  font-family: var(--ff-secondary);
+  
+ 
+  
+}
+
 h1,
 h2,
 h3,
